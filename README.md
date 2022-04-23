@@ -1,16 +1,21 @@
-### Hi there 👋
+## JhonCamargo07
+### About me
+I am a person who is passionate about programming, I like to learn new technologies and be able to deepen my knowledge, I am also self-taught.
 
-<!--
-**JhonCamargo07/JhonCamargo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- HTML
+- CSS
+- SQL
+- PHP
+- Java
+- JavaScript
 
-Here are some ideas to get you started:
+Although at the moment there are few languages, every day I try to learn something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img src=https://github-readme-stats.vercel.app/api?username=jhoncamargo07&show_icons=true&theme=highcontrast&hide_border=true>
+
+👨‍💻 How to reach me: [jhoncamargo.000webhostapp.com](https://jhoncamargo.000webhostapp.com/) <br>
+:computer: Developer of Software <br>
+:iphone: Application developer <br>
+📚 Student of the Sena <br>
