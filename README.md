@@ -1,7 +1,7 @@
-## JhonCamargo07
+<h1 align="center">Jhon Alexander Camargo</1>
 
 ### About me
-I am a person who is passionate about programming, I like to learn new technologies and be able to deepen my knowledge, I am also self-taught.
+I am a person who is passionate about programming, I like to learn new technologies and to deepen my knowledge, I am also self-taught.
 
 ### Skills
 
@@ -15,7 +15,7 @@ I am a person who is passionate about programming, I like to learn new technolog
 ![Git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23000?logo=github&logoColor=white&style=flat-square)
 
-Although at the moment there are few languages, every day I try to learn something new.
+At the moment I have these skills, but every day I learn new things to become a better programmer.
 
 ### Statistics
 
@@ -30,4 +30,4 @@ Although at the moment there are few languages, every day I try to learn somethi
 
 📚 Student of the Sena <br>
 
-![](https://komarev.com/ghpvc/?username=jhoncamargo21&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=jhoncamargo21&label=PROFILE+VIEWS)
