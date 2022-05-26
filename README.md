@@ -19,7 +19,7 @@ Although at the moment there are few languages, every day I try to learn somethi
 
 ### Statistics
 
-<div align="center">
+<div align="">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncamargo07&layout=compact&theme=highcontrast&hide_border=true" width="" alt="Most used languages">
 <img src="https://github-readme-stats.vercel.app/api?username=jhoncamargo07&show_icons=true&theme=highcontrast&hide_border=true" width="" alt="GitHub Stats"><br>
 </div>
