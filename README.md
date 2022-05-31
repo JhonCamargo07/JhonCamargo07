@@ -27,10 +27,9 @@ Although at the moment there are few languages, every day I try to learn somethi
 <img src="https://github-readme-stats.vercel.app/api?username=jhoncamargo07&show_icons=true&theme=highcontrast&hide_border=true" width="" alt="GitHub Stats"><br>
 </div>
 
-<br>
-👨‍💻 How to reach me: <a href="https://jhoncamargo.000webhostapp.com" target="_blank">jhoncamargo.000webhostapp.com</a>
+👨‍💻 How to reach me: <a href="https://jhoncamargo.000webhostapp.com" target="_blank">jhoncamargo.000webhostapp.com</a>  
 
-:computer: Developer of Software
+:computer: Developer of Software  
 
 :iphone: Application developer
 
