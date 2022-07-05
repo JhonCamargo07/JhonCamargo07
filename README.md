@@ -33,6 +33,6 @@ Although at the moment there are few languages, every day I try to learn somethi
 
 :iphone: Application developer
 
-📚 Student of the Sena
+📚 Autonomous student
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jhoncamargo21&label=PROFILE+VIEWS)
