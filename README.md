@@ -1,7 +1,7 @@
 ## JhonCamargo07
 
 ### About me
-I am a person who is passionate about programming, I like to learn new technologies and be able to deepen my knowledge, I am also self-taught.
+I am a person who is passionate about programming, I like to learn new technologies and be able to deepen my knowledge, I am also self-taught. Most of the technologies that I know, I have learned on my own and those that I have been taught, I have gone into great depth.
 
 ### Skills
 
@@ -23,7 +23,7 @@ I am a person who is passionate about programming, I like to learn new technolog
 ![GitHub](https://img.shields.io/badge/-GitHub-%23000?logo=github&logoColor=white&style=flat)
 <!-- (https://img.shields.io/badge/-GitHub-%23000?logo=github&logoColor=white&style=flat-square)-->
 
-Although at the moment there are few languages, every day I try to learn something new.
+Although at the moment I know perhaps few technologies, every day I learn something new that helps me to continue to expand my knowledge.
 
 ### Statistics
 
