@@ -28,9 +28,9 @@ Although at the moment I know perhaps few technologies, every day I learn someth
 ### Statistics
 
 <div align="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncamargo07&layout=compact&theme=highcontrast&hide_border=true" width="" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCamargo07&layout=compact&theme=chartreuse-dark&hide_border=true" width="" alt="Most used languages">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncamargo07&theme=chartreuse-dark&background=000000&hide_border=true" width="" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api?username=jhoncamargo07&show_icons=true&theme=highcontrast&hide_border=true" width="" alt="GitHub Stats"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=JhonCamargo07&show_icons=true&theme=chartreuse-dark&hide_border=true" width="" alt="GitHub Stats"><br>
 </div>
 
 👨‍💻 How to reach me: <a href="https://jhoncamargo.000webhostapp.com" target="_blank">jhoncamargo.000webhostapp.com</a>  
