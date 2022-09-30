@@ -30,7 +30,7 @@ Although at the moment I know perhaps few technologies, every day I learn someth
 ### Statistics
 
 <div align="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCamargo07&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=20" width="" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCamargo07&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=12" width="" alt="Most used languages">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncamargo07&theme=chartreuse-dark&background=000000&hide_border=true" width="" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api?username=JhonCamargo07&show_icons=true&theme=chartreuse-dark&hide_border=true" width="" alt="GitHub Stats"><br>
 </div>
