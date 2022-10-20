@@ -40,7 +40,7 @@ Although at the moment I know perhaps few technologies, every day I learn someth
 
 :computer: Developer of Software  
 
-:iphone: Application developer
+:iphone: Web Application developer
 
 📚 Autonomous student
 
