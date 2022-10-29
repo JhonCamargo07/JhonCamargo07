@@ -31,17 +31,17 @@ Although at the moment I know perhaps few technologies, every day I learn someth
 ### Statistics
 
 <div align="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCamargo07&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=17" width="" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCamargo07&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" width="" alt="Most used languages">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncamargo07&theme=chartreuse-dark&background=000000&hide_border=true" width="" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api?username=JhonCamargo07&show_icons=true&theme=chartreuse-dark&hide_border=true" width="" alt="GitHub Stats"><br>
 </div>
 
-👨‍💻 How to reach me: <a href="https://jhoncamargo.000webhostapp.com" target="_blank">jhoncamargo.000webhostapp.com</a>  
+:books: Autonomous student
 
 :computer: Developer of Software  
 
-:iphone: Web Application developer
+:earth_americas: Web Application developer
 
-📚 Autonomous student
+👨‍💻 How to reach me: <a href="https://jhoncamargo.000webhostapp.com" target="_blank">jhoncamargo.000webhostapp.com</a>  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jhoncamargo21&label=PROFILE+VIEWS)
