@@ -35,6 +35,7 @@ Although at the moment I know perhaps few technologies, every day I learn someth
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncamargo07&theme=chartreuse-dark&background=000000&hide_border=true" width="" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api?username=JhonCamargo07&show_icons=true&theme=chartreuse-dark&hide_border=true" width="" alt="GitHub Stats"><br>
 <img src="https://github-profile-trophy.vercel.app/?username=jhoncamargo07&theme=darkhub&row=2&column=3" width="" alt="GitHub Statistics"><br>
+<img src="https://activity-graph.herokuapp.com/graph?username=jhoncamargo07&theme=vue&custom_title=Graph%20of%20my%20contributions%20in%20Github" width="" alt="GitHub Statistics"><br><br>
 </div>
 
 :books: Autonomous student
