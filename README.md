@@ -51,3 +51,4 @@ Although at the moment I know perhaps few technologies, every day I learn someth
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jhoncamargo21&label=PROFILE+VIEWS)
 
+![Snake animation](https://github.com/jhoncamargo07/jhoncamargo07/blob/output/github-contribution-grid-snake.svg)
